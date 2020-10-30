@@ -1,4 +1,4 @@
-FROM php:fpm-alpine
+FROM php:7.4-fpm-alpine
 
 ENV DOCKERIZE_VERSION v0.6.1
 
